@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">eBrain</string>
+
+    // core strings
+    <string name="add">إضافة</string>
+    <string name="update">تعديل</string>
+    <string name="menu">القائمة</string>
+    <string name="sorting">ترتيب</string>
+    <string name="title">العنوان</string>
+    <string name="date">التاريخ</string>
+    <string name="ascending">تصاعدي</string>
+    <string name="descending">تنازلي</string>
+    <string name="enter_only_6_digits">أدخل كلمة مرور من 6 خانات</string>
+    <string name="confirm_password">تأكيد كلمة المرور</string>
+    <string name="re_enter_password">أدخل كلمة مرور من 6 خانات</string>
+    <string name="hide">إخفاء</string>
+    <string name="save">حفظ</string>
+    <string name="undo">تراجع</string>
+    <string name="deleted">تم الحذف</string>
+    //-----------------------------------------------------------------
+
+    // navigation drawer strings
+    <string name="theme">الوضع</string>
+    <string name="settings">الإعدادات</string>
+    <string name="info">المعلومات</string>
+    <string name="language">اللغة</string>
+    //------------------------------------
+
+    // info strings
+    <string name="chameleon_feature">خاصية الحرباء</string>
+
+    <string name="chameleon_feature_exp">
+        عندما يتم تفعيل خاصية الحرباء, يمكن للمستخدم فتح التطبيق بكلمة مرور غير صحيحة مع إخفاء المذكرات والمهام الخاصة
+    </string>
+
+    <string name="repeatable">التكرار</string>
+
+    <string name="repeatable_exp">
+        إذا كانت المهمة متكررة, هذا يعني إنها لن تحذف ولن تضيع عندما تكتمل.
+    </string>
+
+    <string name="privacy">الخصوصية</string>
+
+    <string name="privacy_exp">
+        إذا كانت المهمة أو المذكرة خاصة وكانت خاصية الحرباء مفعلة, هذا يعني أنها ستختفي من المستخدمين غير المسموح لهم بالدخول
+    </string>
+
+    //-----------------------------------------------------------------
+
+    // splash screen strings
+    <string name="enter_password">أدخل كلمة المرور</string>
+    //-----------------------------------------------------------------
+
+    // note order section strings
+    <string name="color">اللون</string>
+    //-----------------------------------------------------------------
+
+    // note screen strings
+    <string name="note">المذكرة</string>
+    <string name="add_note">إضافة مذكرة</string>
+    <string name="note_is_empty">المذكرة فارغة</string>
+    //-----------------------------------------------------------------
+
+    // add edit note strings
+    <string name="time">الوقت</string>
+    <string name="set">ضبط</string>
+    <string name="reset">إعادة ضبط</string>
+    //-----------------------------------------------------------------
+
+    // password strings
+    <string name="password">كلمة المرور</string>
+    <string name="set_password">ضبط كلمة المرور</string>
+    <string name="reset_password">تعديل كلمة المرور</string>
+    //-----------------------------------------------------------------
+
+    // etc strings
+    <string name="enter_current_password">أدخل كلمة المرور الحالية</string>
+    <string name="priority">الأولوية</string>
+    //-----------------------------------------------------------------
+
+    // tasks strings
+    <string name="task">المهام</string>
+    <string name="add_task">إضافة مهمة</string>
+    <string name="task_is_empty">المهام فارغة</string>
+    //-----------------------------------------------------------------
+
+    // add edit task string
+    <string name="high">عالية</string>
+    <string name="medium">متوسطة</string>
+    <string name="low">منخفضة</string>
+    <string name="repeatability">متكررة</string>
+    <string name="every">كل </string>
+    //-----------------------------------------------------------------
+
+</resources>

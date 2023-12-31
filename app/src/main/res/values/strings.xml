@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">eBrain</string>
+
+    // core strings
+    <string name="add">Add</string>
+    <string name="update">Update</string>
+    <string name="menu">Menu</string>
+    <string name="sorting">Sorting</string>
+    <string name="title">Title</string>
+    <string name="date">Date</string>
+    <string name="ascending">Ascending</string>
+    <string name="descending">Descending</string>
+    <string name="enter_only_6_digits">Enter only 6 digits Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="re_enter_password">Re-Enter 6 digits Password</string>
+    <string name="hide">Hide</string>
+    <string name="save">Save</string>
+    <string name="undo">Undo</string>
+    <string name="deleted">Deleted</string>
+    //-----------------------------------------------------------------
+
+    // navigation drawer strings
+    <string name="theme">Theme</string>
+    <string name="settings">Settings</string>
+    <string name="info">Info</string>
+    <string name="language">Language</string>
+    //-----------------------------------------------------------------
+
+    // info strings
+    <string name="chameleon_feature">Chameleon feature</string>
+    <string name="chameleon_feature_exp">
+        When chameleon feature is enabled, users can open eBrain app with wrong passwords but private notes and tasks will be hidden.
+    </string>
+
+    <string name="repeatable">Repeatable</string>
+
+    <string name="repeatable_exp">
+        if task is repeatable, that mean it won\'t be destroyed or deleted when it\'s complete.
+    </string>
+
+    <string name="privacy">Privacy</string>
+
+    <string name="privacy_exp">
+        if "task/note" is private and chameleon feature was enabled, this "task/note" will be hidden from unauthorized users.
+    </string>
+    //-----------------------------------------------------------------
+
+    // splash screen strings
+    <string name="enter_password">Enter Password</string>
+    //-----------------------------------------------------------------
+
+    // note order section strings
+    <string name="color">Color</string>
+    //-----------------------------------------------------------------
+
+    // note screen strings
+    <string name="note">Note</string>
+    <string name="note_is_empty">Note is Empty</string>
+    <string name="add_note">Add Notes</string>
+    //-----------------------------------------------------------------
+
+    // add edit note strings
+    <string name="time">Time</string>
+    <string name="set">Set</string>
+    <string name="reset">Reset</string>
+    //-----------------------------------------------------------------
+
+    // password strings
+    <string name="password">Password</string>
+    <string name="set_password">Set Password</string>
+    <string name="reset_password">Reset Password</string>
+    //-----------------------------------------------------------------
+
+    // etc strings
+    <string name="enter_current_password">Enter Current Password</string>
+    <string name="priority">Priority</string>
+    //-----------------------------------------------------------------
+
+    // tasks strings
+    <string name="task">Task</string>
+    <string name="add_task">Add Task</string>
+    <string name="task_is_empty">Task is Empty</string>
+    //-----------------------------------------------------------------
+
+    // add edit task string
+    <string name="high">High</string>
+    <string name="medium">Medium</string>
+    <string name="low">Low</string>
+    <string name="repeatability">Repeatability</string>
+    <string name="every">Every</string>
+    //-----------------------------------------------------------------
+</resources>
